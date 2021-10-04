@@ -1,0 +1,10 @@
+Lupita,21,ITC
+Lolita,3,LAE
+Marita,12,ITD
+Popeye,30,IMD
+Gladys,14,ITD
+Juvia,18,ITC
+Graciela,20,IMD
+Silvia,22,LAE
+Luis,23,LAE
+Ramón,22,LAE
