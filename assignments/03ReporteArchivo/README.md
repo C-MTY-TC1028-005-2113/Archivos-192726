@@ -15,7 +15,7 @@ if __name__ == '__main__':
 La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
 Agrega el código necesario para que tu programa lea un archivo de texto que se llama "Alumnos.txt" que contiene el siguiente contenido:
-````
+```
 Lupita,21,ITC
 Lolita,3,LAE
 Marita,12,ITD
@@ -26,7 +26,7 @@ Graciela,20,IMD
 Silvia,22,LAE
 Luis,23,LAE
 Ramón,22,LAE
-````
+```
 
 Separa el nombre, el número, y la carrera, y despliega en pantalla cuantos registros hay de cada carrera.
 
