@@ -28,10 +28,22 @@ Luis,23,LAE
 Ramón,22,LAE
 ```
 
-Separa el nombre, el número, y la carrera, y despliega en pantalla cuantos registros hay de cada carrera.
+Salida del programa, para cada línea del archivo 
+Separa y despliega el nombre, el número, y la carrera,
+posteriormente despliega en pantalla cuantos registros hay de cada carrera.
 
 Salida:
 ```
+1  Lupita     21   ITC
+2  Lolita     3    LAE
+3  Marita     12   ITD
+4  Popeye     30   IMD
+5  Gladys     14   ITD
+6  Juvia      18   ITC
+7  Graciela   20   IMD
+8  Silvia     22   LAE
+9  Luis       23   LAE
+10 Ramón      22   LAE
 ITC 2
 LAE 4
 ITD 2
